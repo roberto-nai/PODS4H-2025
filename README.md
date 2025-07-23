@@ -18,7 +18,7 @@ Rather than focusing exclusively on performance, this case study highlights the 
   
 
 **Related projects**  
-Event log enrichment: https://github.com/roberto-nai/HOSPITAL
+Event log enrichment: [https://github.com/roberto-nai/HOSPITAL-EVENTLOG-ENRICHMENT](https://github.com/roberto-nai/HOSPITAL-EVENTLOG-ENRICHMENT)
 
 ---
 
