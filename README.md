@@ -13,12 +13,14 @@ Rather than focusing exclusively on performance, this case study highlights the 
 ---
 
 **Folder description**
-- `images`: full resolution images
-- `event_log`: initial event log
+- `images`: full resolution images. 
+- `event_log`: event log (base and enriched via script). 
   
+---
 
 **Related projects**  
-Event log enrichment: [https://github.com/roberto-nai/HOSPITAL-EVENTLOG-ENRICHMENT](https://github.com/roberto-nai/HOSPITAL-EVENTLOG-ENRICHMENT)
+Event log enrichment: [https://github.com/roberto-nai/HOSPITAL-EVENTLOG-ENRICHMENT](https://github.com/roberto-nai/HOSPITAL-EVENTLOG-ENRICHMENT). 
+Event log to narrative prediction: [https://github.com/roberto-nai/HOSPITAL-EVENTLOG-NARRATIVE-PPM](https://github.com/roberto-nai/HOSPITAL-EVENTLOG-NARRATIVE-PPM). 
 
 ---
 
