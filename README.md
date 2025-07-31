@@ -12,7 +12,7 @@ Applied to real-world emergency department data collected over a one-month perio
 
 **Folder description**
 - `images`: full resolution images. 
-- `event_log`: event log (base and enriched via script). 
+<!-- - `event_log`: event log (base and enriched via script). -->
   
 ---
 

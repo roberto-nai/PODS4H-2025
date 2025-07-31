@@ -1,2 +1,4 @@
 .DS_Store
 **/.DS_Store
+event_log/*
+event_log/
