@@ -11,7 +11,9 @@ Applied to real-world emergency department data collected over a one-month perio
 ---
 
 **Folder description**
+- `article`: article presented at PODS4H 2025. 
 - `images`: full resolution images. 
+
 <!-- - `event_log`: event log (base and enriched via script). -->
   
 ---
